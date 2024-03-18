@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, me chamo Mario Carvalho! 
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**mariusss21/mariusss21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## O que faço
 
-Here are some ideas to get you started:
+Trabalho como engenheiro de dados na Stack Tecnologias e minha função principal é gerar valor, seja com código, com ideias ou ajudando meus colegas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+
+
+## O que estou aprendendo
+
+## Contatos
+
+## Meu portfólio
